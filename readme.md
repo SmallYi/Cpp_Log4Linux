@@ -1,4 +1,4 @@
-# Glog | Linux下的安装和使用方法 For XiaoTR
+# Glog | Linux下的安装和使用方法
 1. 什么是glog
     1. glog是google开发的c++环境的日志组件
 2. 下载glog
@@ -27,6 +27,6 @@
     2. 示例程序：main.cpp
     3. 编译程序导入glog库：makefile：LIBS += -lglog -lpthread
     4. 编译示例程序：make
-    5. 运行示例程序：./app 
+    5. 运行示例程序：./app
 
 
