@@ -5,8 +5,8 @@ int main()
 {
     GLogHelper loghelper;
     loghelper.InitLogger("MYLOG", google::INFO, "mylog");
-    LOG(INFO) << "INFO test";
-    LOG(WARNING) << "WARNING test";
-    LOG(ERROR) << "ERROR test";
+    LOG(INFO) << "INFO TR";
+    LOG(WARNING) << "WARNING Xiao";
+    LOG(ERROR) << "ERROR For";
     return 0;
 }
